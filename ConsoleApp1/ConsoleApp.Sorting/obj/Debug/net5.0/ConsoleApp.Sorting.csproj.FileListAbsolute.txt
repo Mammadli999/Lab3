@@ -1,0 +1,16 @@
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.exe
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.deps.json
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.runtimeconfig.json
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.runtimeconfig.dev.json
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ref\ConsoleApp.Sorting.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\bin\Debug\net5.0\ConsoleApp.Sorting.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.csproj.AssemblyReference.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.AssemblyInfoInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.AssemblyInfo.cs
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.csproj.CoreCompileInputs.cache
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ref\ConsoleApp.Sorting.dll
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.pdb
+C:\Users\abbasfm\source\repos\ConsoleApp1\ConsoleApp.Sorting\obj\Debug\net5.0\ConsoleApp.Sorting.genruntimeconfig.cache
